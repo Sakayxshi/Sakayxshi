@@ -79,4 +79,4 @@ A fantasy game where players can create or manage esports teams.
 ## 📬 Get in Touch
 
 - 🌐 [omaraslan.work](https://omaraslan.work)
-- LinkedIn: https://www.linkedin.com/in/omaraslan/
+- [LinkedIn](https://www.linkedin.com/in/omaraslan/)
