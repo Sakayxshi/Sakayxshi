@@ -37,9 +37,9 @@ Interested in game development, motorsport, Japan, and building things that are 
 
 ### 🎲 Character Creator Suite — `HTML / CSS / JS`
 A collection of tabletop RPG character creators built for the web.
-- Witcher RPG · Cyberpunk 2020 · Vampire: the Masquerade · Dishonored · Alex
+- Witcher RPG · Cyberpunk 2020 · Vampire: the Masquerade · Dishonored RPG · FFXIV TTRPG
 
-> *In progress: Character interaction tool for DMs*
+> *In early development*
 
 ---
 
@@ -79,5 +79,4 @@ A fantasy game where players can create or manage esports teams.
 ## 📬 Get in Touch
 
 - 🌐 [omaraslan.work](https://omaraslan.work)
-- LinkedIn: *[your link]*
-- Email: *[your email]*
+- LinkedIn: https://www.linkedin.com/in/omaraslan/
