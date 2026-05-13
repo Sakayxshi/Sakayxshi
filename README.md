@@ -20,7 +20,7 @@ Interested in game development, motorsport, Japan, and building things that are 
 
 ## 📁 Projects
 
-### 🎲 Character Creator Suite — `HTML / CSS / JS`
+### 🎲 Character Creator App - `HTML / CSS / JS`
 A collection of tabletop RPG character creators built for the web.
 - Witcher RPG · Cyberpunk 2020 · Vampire: the Masquerade · Dishonored RPG · FFXIV TTRPG
 
@@ -28,23 +28,24 @@ A collection of tabletop RPG character creators built for the web.
 
 ---
 
-### 🏎️ F1 Analyser — `Python / C++`
+### 🏎️ F1 Analyser - `Python / C++`
 Formula 1 data analysis tool.
 
 > *In early development*
 
 ---
 
-### ⚔️ Simple RPG — `C#`
+### ⚔️ Simple RPG - `C#`
 A simple RPG built in Unity.
 
 ---
 
-### 🃏 PRESS PLAY Game Jam — Mercenary
+### 🃏 PRESS PLAY Game Jam - Mercenary[https://github.com/genbyphyton/Mercenary]
 Digital adaptation of *Condottieri* built during a game jam.
 - Led game design as Team Lead
 - Worked on card systems, faction design, effect interactions, and map design
 
+- Repo[https://github.com/genbyphyton/Mercenary]
 ---
 
 ### 🤖 BMW × Constructor University GenAI Hackathon
