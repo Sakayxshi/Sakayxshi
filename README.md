@@ -28,17 +28,6 @@ A collection of tabletop RPG character creators built for the web.
 
 ---
 
-### 🏎️ F1 Analyser - `Python / C++`
-Formula 1 data analysis tool.
-
-> *In early development*
-
----
-
-### ⚔️ Simple RPG - `C#`
-A simple RPG built in Unity.
-
----
 
 ### 🃏 PRESS PLAY Game Jam - [Mercenary](https://github.com/genbyphyton/Mercenary)
 Digital adaptation of *Condottieri* built during a game jam.
@@ -52,13 +41,6 @@ Digital adaptation of *Condottieri* built during a game jam.
 AI-powered HR decision-making toolkit for assembling product teams.
 - Led product design — feature set, user flow, and interaction logic
 - Contributed to development alongside teammates
-
----
-
-### 🎮 Valorant Fantasy *(In Progress)*
-A fantasy game where players can create or manage esports teams.
-
-- 🔗 GitHub: *[Coming Soon]*
 
 ---
 
