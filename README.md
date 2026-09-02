@@ -32,12 +32,12 @@ Interested in game development, motorsport, Japan, and building things that are 
 ---
 
 
-### PRESS PLAY Game Jam - [Mercenary](https://github.com/genbyphyton/Mercenary)
+### PRESS PLAY Game Jam - [Mercenary](https://github.com/Sakayxshi/Mercenary)
 Digital adaptation of *Condottieri* built during a game jam.
 - Led game design as Team Lead
 - Worked on card systems, faction design, effect interactions, and map design
 
-- [Repo](https://github.com/genbyphyton/Mercenary)
+- [Repo](https://github.com/Sakayxshi/Mercenary)
 ---
 
 ### BMW × Constructor University GenAI Hackathon
