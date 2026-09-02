@@ -6,7 +6,7 @@ Interested in game development, motorsport, Japan, and building things that are 
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
@@ -20,7 +20,7 @@ Interested in game development, motorsport, Japan, and building things that are 
 
 ## Projects
 
-🎲 TTRPG Forge — Character Creator App · HTML / CSS / JS
+ TTRPG Forge — Character Creator App · HTML / CSS / JS
   
   Turning dense tabletop rulebooks into guided character creation. One engine, many rulesets.
   
@@ -47,8 +47,8 @@ AI-powered HR decision-making toolkit for assembling product teams.
 
 ---
 
-## 📬 Get in Touch
+##  Get in Touch
 
-- 🌐 [omaraslan.work](https://omaraslan.work)
-- ✉ [LinkedIn](https://www.linkedin.com/in/omaraslan/)
-- mail@omaraslan.com
+-  [omaraslan.work](https://omaraslan.work)
+-  [LinkedIn](https://www.linkedin.com/in/omaraslan/)
+-  mail@omaraslan.com
