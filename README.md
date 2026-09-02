@@ -18,18 +18,21 @@ Interested in game development, motorsport, Japan, and building things that are 
 
 ---
 
-## 📁 Projects
+## Projects
 
-### 🎲 Character Creator App - `HTML / CSS / JS`
-A collection of tabletop RPG character creators built for the web.
-- Witcher RPG · Cyberpunk 2020 · Vampire: the Masquerade · Dishonored RPG · FFXIV TTRPG
-
-> *In early development*
+🎲 TTRPG Forge — Character Creator App · HTML / CSS / JS
+  
+  Turning dense tabletop rulebooks into guided character creation. One engine, many rulesets.
+  
+  - The Witcher TRPG · Cyberpunk 2020 · Vampire: The Masquerade · Dishonored
+  - Witcher creator built as a seven-stage wizard, with rules rendered from structured data rather than hardcoded, so new systems plug into the same engine
+  
+  ~In development
 
 ---
 
 
-### 🃏 PRESS PLAY Game Jam - [Mercenary](https://github.com/genbyphyton/Mercenary)
+### PRESS PLAY Game Jam - [Mercenary](https://github.com/genbyphyton/Mercenary)
 Digital adaptation of *Condottieri* built during a game jam.
 - Led game design as Team Lead
 - Worked on card systems, faction design, effect interactions, and map design
@@ -37,7 +40,7 @@ Digital adaptation of *Condottieri* built during a game jam.
 - [Repo](https://github.com/genbyphyton/Mercenary)
 ---
 
-### 🤖 BMW × Constructor University GenAI Hackathon
+### BMW × Constructor University GenAI Hackathon
 AI-powered HR decision-making toolkit for assembling product teams.
 - Led product design — feature set, user flow, and interaction logic
 - Contributed to development alongside teammates
@@ -48,3 +51,4 @@ AI-powered HR decision-making toolkit for assembling product teams.
 
 - 🌐 [omaraslan.work](https://omaraslan.work)
 - ✉ [LinkedIn](https://www.linkedin.com/in/omaraslan/)
+- mail@omaraslan.com
