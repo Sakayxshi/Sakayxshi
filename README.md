@@ -2,7 +2,7 @@
 # おーい! 
 
 Computer Science student at Constructor University, Bremen.  
-Interested in game development, motorsport, Japan, and building things that are actually fun to use.
+Interested in game development, motorsport,and creating fun apps. 
 
 ---
 
