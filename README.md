@@ -37,7 +37,7 @@ Digital adaptation of *Condottieri* built during a game jam.
 - Led game design as Team Lead
 - Worked on card systems, faction design, effect interactions, and map design
 
- [Repo](https://github.com/Sakayxshi/Mercenary)
+ 
 ---
 
 ### BMW × Constructor University GenAI Hackathon
